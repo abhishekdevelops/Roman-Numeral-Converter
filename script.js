@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 function convertToRoman(num) {
   const romanMap = [
     { value: 1000, numeral: "M" },
@@ -33,9 +24,6 @@ function convertToRoman(num) {
   }
   return result;
 }
-
-
-
 
 document.getElementById("convert-btn").addEventListener("click", () => {
   const input = document.getElementById("number").value;
