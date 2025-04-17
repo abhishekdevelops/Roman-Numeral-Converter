@@ -30,6 +30,6 @@ convertToRoman(3999); // Output: "MMMCMXCIX"
 [Live Demo](https://abhishekdevelops.github.io/Roman-Numeral-Converter)
 
 ## 🏆 Part of FreeCodeCamp Project  
-This project is part of the **JavaScript Algorithms and Data Structures Certification** by [FreeCodeCamp](https://www.freecodecamp.org/).
+This project is part of the **JavaScript Algorithms and Data Structures Certification** by [freeCodeCamp](https://www.freecodecamp.org/).
 
 ---
