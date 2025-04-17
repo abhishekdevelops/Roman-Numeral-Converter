@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+  padding: 10px;
+  margin-top: 1rem;
+  width: 100%;
+  font-size: 1rem;
+}
+
+#output {
+  margin-top: 1.5rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
